@@ -1,4 +1,4 @@
 # AED
-Nombre: Ivan Enrique Villacorta
-Legajo: 1678784
-Curso: K1051
+Nombre: Ivan Enrique Villacorta <br />
+Legajo: 1678784 <br />
+Curso: K1051 <br />
