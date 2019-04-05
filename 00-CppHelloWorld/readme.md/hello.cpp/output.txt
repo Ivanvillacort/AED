@@ -1,1 +1,0 @@
-Instale el copilador MinGW 
