@@ -1,1 +1,1 @@
-
+Utilice Visual studio code con el copilador MinGW y el output.txt lo cree desde la cmd, ejecutando el .exe y pidiendo que lo lea en un nuevo archivo .txt con el siguiente codigo: "hello.exe > output.txt"
