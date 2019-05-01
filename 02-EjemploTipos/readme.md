@@ -1,0 +1,2 @@
+		Trabajo practico Tipos de datos <br />
+Resumen: En este trabajo declare los distintos tipos de datos y los compare con la funcion assert, en los enteros comprobe una suma, en los reales (double) tambien y para el unsigned lo compare con una constante. El tipo char tiene asignado una cadena de caracteres. <br />
