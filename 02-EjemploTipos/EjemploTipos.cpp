@@ -14,10 +14,11 @@ int main(){
 int a{5};
 double b{6.5};
 bool c{true};
-char d[6]="TAREA";
+char d[6];
 unsigned e;
 
 
+d = "TAREA";
 
 assert(a+a==10);   //suma de enteros
 assert(b+b==13);    //Suma de reales
