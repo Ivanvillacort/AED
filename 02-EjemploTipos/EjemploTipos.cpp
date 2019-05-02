@@ -4,7 +4,7 @@ Ivan enrique villacorta
 30/04/2019
 */
 
-#include <string>
+
 #include <iostream>
 #include <assert.h>
 
@@ -23,7 +23,7 @@ d = "TAREA";
 assert(a+a==10);   //suma de enteros
 assert(b+b==13);    //Suma de reales
 assert(c==true);    //Comparacion booleana
-assert(d!="TAREA");  //Lectura de una cadena de caracteres
+assert(d=="TAREA");  //Lectura de una cadena de caracteres
 assert(e!=a);       //Comparacion de un valor aleatorio con una constante
 
 }
