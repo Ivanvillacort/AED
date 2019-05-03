@@ -7,6 +7,7 @@ Ivan enrique villacorta
 
 #include <iostream>
 #include <assert.h>
+#include <string>
 
 
 int main(){
@@ -15,15 +16,17 @@ int a{5};
 double b{6.5};
 bool c{true};
 char d[6];
-unsigned e;
+unsigned e{42};
+string cadena; 
+
+cadena="Esto es un string";
+d = 'TAREA';
 
 
-d = "TAREA";
-
-assert(a+a==10);   //suma de enteros
-assert(b+b==13);    //Suma de reales
-assert(c==true);    //Comparacion booleana
-assert(d=="TAREA");  //Lectura de una cadena de caracteres
-assert(e!=a);       //Comparacion de un valor aleatorio con una constante
-
+assert(10== a + a );   	//Suma de enteros
+assert(13== b + b);    	//Suma de reales
+assert(c==true);    	//Comparacion booleana
+assert(d=='TAREA');  	//Lectura de una cadena de caracteres
+assert(84 == e + e );   //Suma de naturales
+assert("Esto es un string" == cadena);   //Lectura de un string 
 }
